@@ -34,7 +34,7 @@ The goals / steps of this project are the following:
 [image22]: ./output_images/test6_map_label.png
 
 
-[video1]: https://github.com/89jan25th/vehicle-detection-tracking/blob/master/project_video_proc_thre2.mp4?raw=true
+[video1]: https://youtu.be/MEE_LepZ30I
 [video1]: https://github.com/89jan25th/vehicle-detection-tracking/blob/master/project_video_proc_thre3.mp4?raw=true
 
 
