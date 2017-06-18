@@ -167,7 +167,7 @@ test5        |  test6
 ### Video Implementation
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (somewhat wobbly or unstable bounding boxes are ok as long as you are identifying the vehicles most of the time with minimal false positives.)
-Here's a [result video with thresold 2](https://youtu.be/MEE_LepZ30I) and  [with thresold 3](./project_video_thre3.mp4)
+Here's a [result video with thresold 2](https://youtu.be/MEE_LepZ30I) and  ![alt text][video2]
 
 
 #### 2. Describe how (and identify where in your code) you implemented some kind of filter for false positives and some method for combining overlapping bounding boxes.
