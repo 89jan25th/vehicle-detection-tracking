@@ -16,10 +16,10 @@ The goals / steps of this project are the following:
 [image4]: ./output_images/notcar-hog1.png
 [image5]: ./output_images/notcar-hog2.png
 [image6]: ./output_images/notcar-hog3.png
-[image7]: ./output_images/car_hist_1.jpg
-[image8]: ./output_images/car_hist_2.jpg
-[image9]: ./output_images/not_car_hist_1.jpg
-[image10]: ./output_images/not_car_hist_2.jpg
+[image7]: ./output_images/car_hist_1.JPG
+[image8]: ./output_images/car_hist_2.JPG
+[image9]: ./output_images/not_car_hist_1.JPG
+[image10]: ./output_images/not_car_hist_2.JPG
 [image11]: ./output_images/test1_map.png
 [image12]: ./output_images/test2_map.png
 [image13]: ./output_images/test3_map.png
@@ -53,8 +53,8 @@ I used graysacle image for HOG feature extraction and the parameters are set as 
 
 Below is the examples of cars and not cars' HOG features with the parameters above.
 
-These parameters are set and used for both training and image processing.
-
+These parameters are set and used for both training and image processing.  
+  
 HOG example | HOG example
 :-------------------------:|:-------------------------:
 car example 1         |  car example 2
@@ -140,7 +140,7 @@ My pipeline starts with predicting and bounding.
 
 Here are six frames and their corresponding heatmaps:
 
- ||
+column1  | column2 
 :-------------------------:|:-------------------------:
 test1        |  test2
 ![alt text][image11] |  ![alt text][image12]
@@ -151,8 +151,8 @@ test5        |  test6
 
 
 Here is the output of `scipy.ndimage.measurements.label()` on the integrated heatmap from all six frames:
-
- ||
+  
+column1   | column2   
 :-------------------------:|:-------------------------:
 test1        |  test2
 ![alt text][image17] |  ![alt text][image18]
