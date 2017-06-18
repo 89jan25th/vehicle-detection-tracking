@@ -35,7 +35,7 @@ The goals / steps of this project are the following:
 
 
 [video1]: https://youtu.be/MEE_LepZ30I
-[video1]: https://github.com/89jan25th/vehicle-detection-tracking/blob/master/project_video_proc_thre3.mp4?raw=true
+[video2]: https://github.com/89jan25th/vehicle-detection-tracking/blob/master/project_video_proc_thre3.mp4?raw=true
 
 
 ### Histogram of Oriented Gradients (HOG)
@@ -167,7 +167,7 @@ test5        |  test6
 ### Video Implementation
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (somewhat wobbly or unstable bounding boxes are ok as long as you are identifying the vehicles most of the time with minimal false positives.)
-Here's a [result video with thresold 2](./project_video_thre2.mp4) and  [with thresold 3](./project_video_thre3.mp4)
+Here's a [result video with thresold 2](https://youtu.be/MEE_LepZ30I) and  [with thresold 3](./project_video_thre3.mp4)
 
 
 #### 2. Describe how (and identify where in your code) you implemented some kind of filter for false positives and some method for combining overlapping bounding boxes.
